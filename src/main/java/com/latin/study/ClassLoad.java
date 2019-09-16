@@ -1,8 +1,3 @@
-# letCode
-java code 
-## 图示
-### ClassLoad.java
-```java
 package com.latin.study;
 
 /**
@@ -42,11 +37,3 @@ public class ClassLoad {
     int a = 100;
     static int b = 200;
 }
-
-```
-
-#### 结果
-<details open>
-  <summary>展开ClassLoad</summary>
-  ![ClassLoad](./images/study/ClassLoad.png)
-</details>
