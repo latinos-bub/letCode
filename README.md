@@ -1,5 +1,8 @@
 # letCode
 java code 
+
+<img align="middle" alt="=&quot;alternate_text&quot;" src="http://img5.2345.com/duoteimg/zixunImg/local/2016/03/18/14582940693488.gif" title="hover" width="20%" />
+
 ## 图示
 ### ClassLoad.java
 ```java
@@ -46,9 +49,8 @@ public class ClassLoad {
 ```
 
 #### 结果
-<details open>
-  <summary>展开ClassLoad</summary>
-  ![ClassLoad](./images/study/ClassLoad.png)
+<details>
+  <summary>展开ClassLoad的运行结果</summary>
+  <img align="middle" alt="=&quot;alternate_text&quot;" src="./images/study/ClassLoad.png" title="hover" width="100%" />
 </details>
 
-![ClassLoad](./images/study/ClassLoad.png)
