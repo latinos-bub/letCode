@@ -1,7 +1,7 @@
 # letCode
 java code 
 
-<img align="middle" alt="=&quot;alternate_text&quot;" src="http://img5.2345.com/duoteimg/zixunImg/local/2016/03/18/14582940693488.gif" title="hover" width="20%" />
+<img align="middle" alt="=&quot;alternate_text&quot;" src="./images/14582940693488.gif" title="hover" width="100%" />
 
 ## 图示
 ### ClassLoad.java
